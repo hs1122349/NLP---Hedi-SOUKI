@@ -1,4 +1,4 @@
-## NLP LAB SUBMISSIONS
+## NLP LAB SUBMISSIONS - HEDI SOUKI
 
 Hello This repository is for my Natural Language Processing class submissions
 
